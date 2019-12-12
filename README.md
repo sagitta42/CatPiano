@@ -8,6 +8,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+Linux pre-requisites for the ```simpleaudio``` module:
+
+```
+libasound2-plugins alsa-utils libasound2-doc libasound2 libasound2-data libasound2-dev
+```
+
 Run via
 
 ```console
@@ -26,3 +32,4 @@ https://youtu.be/R4nAvDXpvHk
 The original Nono cat:
 
 https://youtu.be/oKI-tD0L18A
+
